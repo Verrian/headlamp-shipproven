@@ -1,0 +1,7 @@
+# Artifact Hub repository metadata. repositoryID comes from the Artifact Hub
+# control panel after the repo is added; committing it proves ownership and
+# earns the Verified Publisher badge (Headlamp's catalog filters on it).
+repositoryID: REPLACE_WITH_ARTIFACT_HUB_REPOSITORY_ID
+owners:
+  - name: Verrian
+    email: ci@verrian.co.uk
